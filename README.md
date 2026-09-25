@@ -130,7 +130,7 @@ Use the colors by role so every Nephrite port feels like the same stone:
 
 ### Terminal
 
-`palette.json` includes a suggested ANSI mapping (`ansi`): red is `garnet`, green `jade`, yellow `citrine`, blue `sapphire`, magenta `amethyst`, cyan `lagoon`, and black and white come from the neutrals.
+`palette.json` includes a suggested ANSI mapping (`ansi`): red is `garnet`, green `jade`, yellow `citrine`, blue `sapphire`, magenta `amethyst`, cyan `lagoon`, and black and white come from the neutrals. Bright black is `overlay1`, so dim text such as shell suggestions and comments stays readable (at least 4.4:1 on `base`).
 
 ## Changing the palette
 

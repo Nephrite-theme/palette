@@ -1,4 +1,4 @@
-// Nephrite palette v0.1.1 · MIT · https://getnephrite.dev/palette
+// Nephrite palette v0.1.2 · MIT · https://getnephrite.dev/palette
 export type NeutralName = "crust" | "mantle" | "base" | "surface0" | "surface1" | "surface2" | "overlay0" | "overlay1" | "subtext" | "text";
 export type AccentName = "garnet" | "carnelian" | "citrine" | "jade" | "mint" | "lagoon" | "sapphire" | "amethyst" | "rhodonite";
 export type ColorName = NeutralName | AccentName;

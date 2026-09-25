@@ -130,7 +130,7 @@ Usa los colores por su función, para que todos los ports de Nephrite se sientan
 
 ### Terminal
 
-`palette.json` incluye un mapeo ANSI sugerido (`ansi`): rojo es `garnet`, verde `jade`, amarillo `citrine`, azul `sapphire`, magenta `amethyst`, cian `lagoon`, y el negro y el blanco salen de los neutros.
+`palette.json` incluye un mapeo ANSI sugerido (`ansi`): rojo es `garnet`, verde `jade`, amarillo `citrine`, azul `sapphire`, magenta `amethyst`, cian `lagoon`, y el negro y el blanco salen de los neutros. El negro brillante es `overlay1`, para que el texto tenue, como las sugerencias de la shell y los comentarios, siga siendo legible (al menos 4.4:1 sobre `base`).
 
 ## Cambiar la paleta
 

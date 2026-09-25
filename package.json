@@ -1,6 +1,6 @@
 {
   "name": "@nephrite-theme/palette",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "The Nephrite palette: three jade flavors with ten neutrals and nine mineral accents, as CSS, SCSS, JSON and JS.",
   "keywords": [
     "nephrite",

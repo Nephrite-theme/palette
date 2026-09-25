@@ -1,4 +1,4 @@
-// Nephrite palette v0.1.1 · MIT · https://getnephrite.dev/palette
+// Nephrite palette v0.1.2 · MIT · https://getnephrite.dev/palette
 const palette = {
   "flavors": {
     "forest": {
@@ -109,7 +109,7 @@ const palette = {
     "magenta": "amethyst",
     "cyan": "lagoon",
     "white": "subtext",
-    "brightBlack": "surface2",
+    "brightBlack": "overlay1",
     "brightRed": "garnet",
     "brightGreen": "mint",
     "brightYellow": "citrine",

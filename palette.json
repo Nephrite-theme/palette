@@ -1,7 +1,7 @@
 {
   "$comment": "Source of truth for the Nephrite palette. Run `npm run build` after editing.",
   "name": "Nephrite",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "flavors": {
     "forest": {
       "name": "Forest",
@@ -90,7 +90,7 @@
     "magenta": "amethyst",
     "cyan": "lagoon",
     "white": "subtext",
-    "brightBlack": "surface2",
+    "brightBlack": "overlay1",
     "brightRed": "garnet",
     "brightGreen": "mint",
     "brightYellow": "citrine",
