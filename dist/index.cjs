@@ -1,4 +1,4 @@
-// Nephrite palette v0.1.0 · MIT · https://getnephrite.dev/palette
+// Nephrite palette v0.1.1 · MIT · https://getnephrite.dev/palette
 const palette = {
   "flavors": {
     "forest": {
@@ -62,7 +62,7 @@ const palette = {
         "surface1": "#cbe1d4",
         "surface2": "#bdd5c7",
         "overlay0": "#83988c",
-        "overlay1": "#6d8075",
+        "overlay1": "#607268",
         "subtext": "#3f5247",
         "text": "#192e23",
         "garnet": "#ad4b4b",

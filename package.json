@@ -1,8 +1,15 @@
 {
   "name": "@nephrite-theme/palette",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The Nephrite palette: three jade flavors with ten neutrals and nine mineral accents, as CSS, SCSS, JSON and JS.",
-  "keywords": ["nephrite", "palette", "theme", "colors", "jade", "dark-theme"],
+  "keywords": [
+    "nephrite",
+    "palette",
+    "theme",
+    "colors",
+    "jade",
+    "dark-theme"
+  ],
   "homepage": "https://getnephrite.dev/palette",
   "repository": {
     "type": "git",
@@ -26,8 +33,12 @@
     "./scss": "./dist/_palette.scss",
     "./package.json": "./package.json"
   },
-  "files": ["dist"],
-  "sideEffects": ["*.css"],
+  "files": [
+    "dist"
+  ],
+  "sideEffects": [
+    "*.css"
+  ],
   "scripts": {
     "build": "node scripts/build.mjs",
     "prepublishOnly": "node scripts/build.mjs"

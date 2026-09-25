@@ -34,7 +34,7 @@ Neutrals carry a slight jade tint, and every accent clears 4.5:1 contrast on its
 | surface1 | `#25342c` | `#2e4639` | `#cbe1d4` |
 | surface2 | `#324139` | `#3c5346` | `#bdd5c7` |
 | overlay0 | `#59675f` | `#63776c` | `#83988c` |
-| overlay1 | `#76847c` | `#7f9187` | `#6d8075` |
+| overlay1 | `#76847c` | `#7f9187` | `#607268` |
 | subtext | `#b4c1ba` | `#bdccc3` | `#3f5247` |
 | text | `#e0ebe5` | `#e7f2eb` | `#192e23` |
 | garnet | `#ffa09c` | `#ffaaa7` | `#ad4b4b` |
