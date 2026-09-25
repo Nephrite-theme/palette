@@ -1,0 +1,23 @@
+/* Nephrite palette v0.1.0 · MIT · https://getnephrite.dev/palette · Forest */
+:root {
+  color-scheme: dark;
+  --nephrite-crust: #050e09;
+  --nephrite-mantle: #09150e;
+  --nephrite-base: #0d1c14;
+  --nephrite-surface0: #192820;
+  --nephrite-surface1: #25342c;
+  --nephrite-surface2: #324139;
+  --nephrite-overlay0: #59675f;
+  --nephrite-overlay1: #76847c;
+  --nephrite-subtext: #b4c1ba;
+  --nephrite-text: #e0ebe5;
+  --nephrite-garnet: #ffa09c;
+  --nephrite-carnelian: #fba773;
+  --nephrite-citrine: #d9bb5c;
+  --nephrite-jade: #4dbf74;
+  --nephrite-mint: #5ed7b5;
+  --nephrite-lagoon: #43d5dc;
+  --nephrite-sapphire: #89c3fe;
+  --nephrite-amethyst: #d0aafc;
+  --nephrite-rhodonite: #f99dc6;
+}

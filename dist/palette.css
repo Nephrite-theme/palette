@@ -1,0 +1,71 @@
+/* Nephrite palette v0.1.0 · MIT · https://getnephrite.dev/palette */
+
+:root,
+[data-nephrite="forest"] {
+  color-scheme: dark;
+  --nephrite-crust: #050e09;
+  --nephrite-mantle: #09150e;
+  --nephrite-base: #0d1c14;
+  --nephrite-surface0: #192820;
+  --nephrite-surface1: #25342c;
+  --nephrite-surface2: #324139;
+  --nephrite-overlay0: #59675f;
+  --nephrite-overlay1: #76847c;
+  --nephrite-subtext: #b4c1ba;
+  --nephrite-text: #e0ebe5;
+  --nephrite-garnet: #ffa09c;
+  --nephrite-carnelian: #fba773;
+  --nephrite-citrine: #d9bb5c;
+  --nephrite-jade: #4dbf74;
+  --nephrite-mint: #5ed7b5;
+  --nephrite-lagoon: #43d5dc;
+  --nephrite-sapphire: #89c3fe;
+  --nephrite-amethyst: #d0aafc;
+  --nephrite-rhodonite: #f99dc6;
+}
+
+[data-nephrite="jade"] {
+  color-scheme: dark;
+  --nephrite-crust: #0b1d13;
+  --nephrite-mantle: #0e2419;
+  --nephrite-base: #132e20;
+  --nephrite-surface0: #20392c;
+  --nephrite-surface1: #2e4639;
+  --nephrite-surface2: #3c5346;
+  --nephrite-overlay0: #63776c;
+  --nephrite-overlay1: #7f9187;
+  --nephrite-subtext: #bdccc3;
+  --nephrite-text: #e7f2eb;
+  --nephrite-garnet: #ffaaa7;
+  --nephrite-carnelian: #ffaf7e;
+  --nephrite-citrine: #e0c262;
+  --nephrite-jade: #4dbf74;
+  --nephrite-mint: #65ddbb;
+  --nephrite-lagoon: #4cdbe3;
+  --nephrite-sapphire: #96c9fe;
+  --nephrite-amethyst: #d5b2ff;
+  --nephrite-rhodonite: #fea4cc;
+}
+
+[data-nephrite="mint"] {
+  color-scheme: light;
+  --nephrite-crust: #c7ded1;
+  --nephrite-mantle: #d7eadf;
+  --nephrite-base: #edfbf3;
+  --nephrite-surface0: #daeee2;
+  --nephrite-surface1: #cbe1d4;
+  --nephrite-surface2: #bdd5c7;
+  --nephrite-overlay0: #83988c;
+  --nephrite-overlay1: #6d8075;
+  --nephrite-subtext: #3f5247;
+  --nephrite-text: #192e23;
+  --nephrite-garnet: #ad4b4b;
+  --nephrite-carnelian: #a85514;
+  --nephrite-citrine: #866c02;
+  --nephrite-jade: #048149;
+  --nephrite-mint: #037e65;
+  --nephrite-lagoon: #017b80;
+  --nephrite-sapphire: #2672b7;
+  --nephrite-amethyst: #8058ab;
+  --nephrite-rhodonite: #a54a77;
+}
